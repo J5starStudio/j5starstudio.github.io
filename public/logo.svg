@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">J5 Star Studio emblem</title>
+  <desc id="desc">A geometric five-pointed star framed by two celestial rings.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3E4B8"/><stop offset=".46" stop-color="#D6B878"/><stop offset="1" stop-color="#9B7840"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#D6B878" stop-opacity=".38"/><stop offset="1" stop-color="#D6B878" stop-opacity="0"/></radialGradient>
+  </defs>
+  <circle cx="160" cy="160" r="152" fill="url(#glow)"/>
+  <circle cx="160" cy="160" r="118" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <circle cx="160" cy="160" r="96" fill="none" stroke="#8F87BD" stroke-opacity=".38"/>
+  <path fill="url(#gold)" d="m160 65 22.7 62.2 66 2.2-52.1 40.7 18.3 63.5-54.9-36.9-54.9 36.9 18.3-63.5-52.1-40.7 66-2.2L160 65Z"/>
+  <path fill="#090E1B" d="m160 102 10.2 37.8 36.9-1.8-30.9 21.4 13.1 35.2-29.3-22.7-29.3 22.7 13.1-35.2-30.9-21.4 36.9 1.8L160 102Z"/>
+  <circle cx="160" cy="160" r="7" fill="#E9E5DA"/>
+</svg>
